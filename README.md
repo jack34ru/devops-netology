@@ -8,3 +8,5 @@ first redaction
  - файлы override и их JSON-версии
  - временны lock файлы (.terraform.tfstate.lock.info)
  - конфигурационные файлы terraform
+
+ new line
