@@ -1,7 +1,7 @@
 # devops-netology
 first redaction
 # В файле .gitignore в папке terraform будут игнорироваться:
- все файлы в каталоге .terraform/
+ - все файлы в каталоге .terraform/
  - Файлы с расширением .tfstate и .tfstate.
  - файл crash.log и любые файлы конструкции crash.*.log (например crash.123.log)
  - файлы c расширением .tfvars и .tfvars.json
